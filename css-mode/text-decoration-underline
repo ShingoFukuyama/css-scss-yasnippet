@@ -1,0 +1,4 @@
+# name: text-decoration underline
+# key: tdu
+# --
+text-decoration: underline;

@@ -1,0 +1,9 @@
+# name: each
+# key: each
+# --
+@each $i in ${1:red, blue, yellow} {
+  .color-#{$i} {
+    color: #{$i};
+    $0
+  }
+}

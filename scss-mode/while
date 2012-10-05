@@ -1,0 +1,10 @@
+# name: while
+# key: while
+# --
+$i: 1;
+@while $i <= ${1:5} {
+  ${2:.margin#{$i} {
+    margin: #{$i}px;
+  }}
+  $i: $i + 1;
+}

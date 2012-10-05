@@ -1,0 +1,4 @@
+# name: border-width
+# key: bdw
+# --
+border-width: ${1:$$(yas/choose-value '("thin" "medium" "thick"))};

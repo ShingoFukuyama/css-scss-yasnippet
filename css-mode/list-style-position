@@ -1,0 +1,4 @@
+# name: list-style-position
+# key: lsp
+# --
+list-style-position: ${1:$$(yas/choose-value '("inside" "outside"))};

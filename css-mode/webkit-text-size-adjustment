@@ -1,0 +1,4 @@
+# name: text-size-adjustment
+# key: webkit
+# --
+-webkit-text-size-adjust: none;

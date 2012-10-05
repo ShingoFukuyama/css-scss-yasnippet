@@ -1,0 +1,4 @@
+# name: border-color
+# key: bdc
+# --
+border-color: $0

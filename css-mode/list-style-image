@@ -1,0 +1,4 @@
+# name: list-style-image
+# key: lsi
+# --
+list-style-image: ${1:$$(yas/choose-value '("url()" "none"))};

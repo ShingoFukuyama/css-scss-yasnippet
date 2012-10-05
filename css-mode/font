@@ -1,0 +1,8 @@
+# name: font
+# key: f
+# --
+font: ${1:$$(yas/choose-value '("italic" "normal" "oblique"))} ${2:$$(yas/choose-value '("small-caps" "normal"))} ${3:$$(yas/choose-value '("bold" "normal" "lighter" "bolder"))} ${4:$$(yas/choose-value '("px" "%" "em" "ex" "xx-large" "x-large" "midium" "small" "x-small" "xx-small"))} /${5:$$(yas/choose-value '("1.4" "1.5" "1.6"))} sans-serif;
+
+
+
+

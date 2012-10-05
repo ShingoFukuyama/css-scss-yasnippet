@@ -1,0 +1,4 @@
+# name: content
+# key: con
+# --
+content: ${1:$$(yas/choose-value '("\\"\\"" "attr()" "url()" "open-quote" "close-quote" "no-open-quote" "no-close-quote" "http://www.htmq.com/style/content.shtml"))};

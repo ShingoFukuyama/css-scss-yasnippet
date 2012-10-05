@@ -1,0 +1,4 @@
+# name: lighten
+# key: lighten
+# --
+lighten($1, $2%);

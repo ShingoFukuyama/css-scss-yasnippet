@@ -1,0 +1,4 @@
+# name: background-dummy-opacity-red
+# key: bgred
+# --
+background: rgba(255,0,0,0.3);

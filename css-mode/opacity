@@ -1,0 +1,8 @@
+# name: opacity
+# key: opacity
+# --
+  filter: alpha(opacity=${1:50});
+  -ms-opacity: "alpha(opacity=#{$1})";
+  -khtml-opacity: 0.$1;
+  -moz-opacity: 0.$1;
+  opacity: 0.$1;

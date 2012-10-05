@@ -1,0 +1,8 @@
+# name: media-query-high-resolution
+# key: retina
+# --
+/* for iPhone, iPad, Android, MacBookPro, etc */
+@media only screen and (min-device-pixel-ratio: 1.5),
+only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+  $0
+}

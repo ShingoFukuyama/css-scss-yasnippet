@@ -1,0 +1,4 @@
+# name: word-wrap-break-word
+# key: wwb
+# --
+word-wrap: break-word;

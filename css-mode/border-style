@@ -1,0 +1,4 @@
+# name: border-style
+# key: bds
+# --
+border-style: ${1:$$(yas/choose-value '("solid" "double" "dotted" "dashed" "none" "hidden" "ridge" "outset"))};

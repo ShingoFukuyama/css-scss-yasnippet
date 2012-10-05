@@ -1,0 +1,6 @@
+# name: min-height ie6
+# key: mhie6
+# --
+min-height: $1px;
+height: auto !important;
+height: $1px;

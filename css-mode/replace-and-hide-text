@@ -1,0 +1,8 @@
+# name: replace and hide text
+# key: reptext
+# --
+.hide_text{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}

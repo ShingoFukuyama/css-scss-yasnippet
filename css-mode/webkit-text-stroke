@@ -1,0 +1,4 @@
+# name: webkit-text-stroke
+# key: webkit
+# --
+-webkit-text-stroke: ${1:1px} ${2:red};

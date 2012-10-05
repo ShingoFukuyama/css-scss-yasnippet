@@ -1,0 +1,6 @@
+# name: first-letter-char
+# key: first
+# --
+$1:first-letter{
+  $0
+}

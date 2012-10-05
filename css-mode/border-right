@@ -1,0 +1,4 @@
+# name: border-right
+# key: bdr
+# --
+border-right: 1px solid $0

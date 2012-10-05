@@ -1,0 +1,54 @@
+# name: media-query
+# key: media
+# http://www.webcyou.com/?p=1496
+# http://kazu69.net/blog/memo/1023/
+# --
+/* 画面サイズ〜480pxの端末のときに */
+@media only screen and (max-width: 481px) {
+
+}
+
+/* 画面サイズ481px〜1024pxの端末が縦（portrait）のときに */
+@media only screen and (max-width: 480px) and (max-device-width: 1024px) and (orientation:portrait) {
+
+}
+
+/* 画面サイズ481px〜1024pxの端末が横（landscape）のときに */
+@media only screen and (max-width: 480px) and (max-device-width: 1024px) and (orientation:landscape) {
+
+}
+
+/* 画面サイズ1025〜の端末が横（landscape）のときに */
+@media only screen and (max-width: 480px) and (max-device-width: 1024px) and (orientation:landscape) {
+
+}
+
+/* 768 ~ 1140 */
+@media screen and (min-width: 600px) and (max-width: 900px) {
+
+}
+
+/* width: 1140px〜 */
+@media only screen and (min-width: 1025px) {
+
+}
+
+/* Retina */
+@media (-webkit-min-device-pixel-ratio: 2),
+             (min--moz-device-pixel-ratio: 2),
+             (min-resolution: 300dpi) {
+
+}
+
+/* andoroid */
+@media (-webkit-max-device-pixel-ratio: 1.5),
+             (max--moz-device-pixel-ratio: 1.5),
+             (max-resolution: 299dpi) {
+
+}
+
+/* Retina and android */
+@media only screen and (min-device-pixel-ratio: 1.5),
+only screen and (-webkit-min-device-pixel-ratio: 1.5) {
+
+}

@@ -1,0 +1,11 @@
+# name: wordpress_style_css_infomation
+# key: wordpress
+# expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
+# --
+/*
+Theme Name  :$1
+URI         :$2
+Description :$3
+Author      :$4
+Author URI  :$5
+*/

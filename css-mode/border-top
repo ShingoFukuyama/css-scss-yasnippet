@@ -1,0 +1,4 @@
+# name: border-top
+# key: bdt
+# --
+border-top: 1px solid $0

@@ -1,0 +1,4 @@
+# name: border-collapse
+# key: bdcl
+# --
+border-collapse: ${1:$$(yas/choose-value '("collapse" "separate"))};

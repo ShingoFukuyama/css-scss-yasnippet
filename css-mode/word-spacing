@@ -1,0 +1,4 @@
+# name: word-spacing
+# key: ws
+# --
+word-spacing: $0

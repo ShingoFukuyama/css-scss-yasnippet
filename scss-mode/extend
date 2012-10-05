@@ -1,0 +1,4 @@
+# name: extend
+# key: ex
+# --
+@extend $0

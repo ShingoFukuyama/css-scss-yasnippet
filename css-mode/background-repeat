@@ -1,0 +1,4 @@
+# name: background-repeat
+# key: bgr
+# --
+background-repeat: ${1:$$(yas/choose-value '("no-repeat" "repeat" "repeat-x" "repeat-y"))};

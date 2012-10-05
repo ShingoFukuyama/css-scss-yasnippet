@@ -1,0 +1,4 @@
+# name: darken
+# key: dark
+# --
+darken($1, $2%);

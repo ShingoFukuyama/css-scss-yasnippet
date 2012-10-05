@@ -1,0 +1,4 @@
+# name: position fixed
+# key: posf
+# --
+position: fixed;

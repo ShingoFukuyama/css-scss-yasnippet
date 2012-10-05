@@ -1,0 +1,11 @@
+# name: if elseif else
+# key: if
+# --
+// operator == != < > <= >= and not or
+@if $1 {
+  $3
+} @else if $2 {
+  $4
+} @else {
+  $5
+}

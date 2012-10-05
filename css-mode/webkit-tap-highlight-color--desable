@@ -1,0 +1,6 @@
+# name: webkit-tap-highlight-color--desable
+# key: webkit
+# when rgba is (0,0,0,0) desable highlight for Android and iPad
+# but not (0,0,0,0) then doesn't work only Android
+# --
+-webkit-tap-highlight-color: rgba(0,0,0,0);

@@ -1,0 +1,4 @@
+# name: cursor
+# key: cursor
+# --
+cursor: ${1:$$(yas/choose-value '("pointer" "crosshair" "move" "all-scroll" "text" "vertical-text" "help" "auto" "wait" "default" "not-allowed" "no-drop" "row-resize" "col-resize" "progress" "url()" "n-resize" "s-resize" "w-resize" "e-resize" "ne-resize" "se-resize" "nw-resize" "sw-resize" "http://www.htmq.com/style/cursor.shtml"))};

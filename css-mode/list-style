@@ -1,0 +1,4 @@
+# name: list-style
+# key: ls
+# --
+list-style: ${1:$$(yas/choose-value '("none" "disc" "circle" "square" "lower-roman" "upper-roman" "lower-greek" "decimal" "decimal-leading-zero" "lower-latin" "lower-alpha" "upper-latin" "upper-alpha" "cjk-ideographic" "hiragana" "katakana" "hiragana-iroha" "katakana-iroha" "hebrew" "armenian" "georgian" "http://www.htmq.com/style/list-style-type.shtml" ""))} ${2:$$(yas/choose-value '("url()" "none" ""))} ${3:$$(yas/choose-value '("inside" "outside"))};

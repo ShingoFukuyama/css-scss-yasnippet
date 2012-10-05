@@ -1,0 +1,4 @@
+# name: clear
+# key: cl
+# --
+clear: ${1:$$(yas/choose-value '("left" "right" "both" "none"))};

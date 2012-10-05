@@ -1,0 +1,9 @@
+# name: for
+# key: for
+# --
+@for $i from ${1:1} ${2:$$(yas/choose-value '("to" "through"))} ${3:5} {
+  .margin#{$i} {
+    margin: #{$i}px;
+    $0
+  }
+}

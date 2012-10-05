@@ -1,0 +1,5 @@
+# name: clip
+# key: clip
+# --
+position: absolute;
+clip: rect($1 $2 $3 $4);
