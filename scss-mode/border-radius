@@ -1,0 +1,4 @@
+# name: border-radius
+# key: bdra
+# --
+@include border-radius(${1:3px 3px 4px red}${2:$$(yas/choose-value '(", top, left" ", top, right" ", bottom, left" ", bottom, right"))});

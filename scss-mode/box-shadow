@@ -1,0 +1,4 @@
+# name: box-shadow
+# key: bs
+# --
+@include box-shadow(${1:2px}, ${2:2px}, ${3:10px}, ${4:-2px}, ${5:#ccc}${6:, inset});

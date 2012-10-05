@@ -1,0 +1,4 @@
+# name: text-shadow
+# key: ts
+# --
+text-shadow: ${1:1px} ${2:1px} ${3:1px} ${4:#ccc};

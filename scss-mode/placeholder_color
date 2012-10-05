@@ -1,0 +1,4 @@
+# name: placeholder-color
+# key: ph
+# --
+@include placeholder-color($1);

@@ -1,0 +1,4 @@
+# name: transition
+# key: tr
+# --
+@include transition(${1:0.3}s);
