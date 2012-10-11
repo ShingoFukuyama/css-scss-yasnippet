@@ -1,0 +1,4 @@
+# name: quote
+# key: quote
+# --
+quote(${1:foo});

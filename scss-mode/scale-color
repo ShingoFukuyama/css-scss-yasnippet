@@ -1,0 +1,4 @@
+# name: scale-color
+# key: scale-color
+# --
+scale-color(${1:#112233}, ${2:$$(yas/choose-value '("$red" "$green" "$blue" "$hue" "$saturation" "$lighteness" "$alpha"))}:${3:50}%);

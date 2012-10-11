@@ -1,0 +1,4 @@
+# name: ceil
+# key: ceil
+# --
+ceil(${1:10.4px});

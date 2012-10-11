@@ -1,0 +1,4 @@
+# name: nth
+# key: nth
+# --
+nth(${1:1px solid red}, ${2:2});

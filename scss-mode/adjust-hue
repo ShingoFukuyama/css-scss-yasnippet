@@ -1,0 +1,4 @@
+# name: adjust-hue
+# key: adjust-hue
+# --
+adjust-hue(${1:#330000}, ${2:120}deg);

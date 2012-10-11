@@ -1,0 +1,4 @@
+# name: index
+# key: index
+# --
+index(${1:1px solid red}, ${2:solid});

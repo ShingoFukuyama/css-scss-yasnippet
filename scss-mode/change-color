@@ -1,0 +1,4 @@
+# name: change-color
+# key: change-color
+# --
+change-color(${1:#eeccff}, ${2:$$(yas/choose-value '("$red" "$green" "$blue" "$hue" "$saturation" "$lighteness" "$alpha"))}:${3:255});

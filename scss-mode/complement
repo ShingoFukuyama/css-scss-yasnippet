@@ -1,0 +1,4 @@
+# name: complement
+# key: complement
+# --
+complement(${1:#33ccee});

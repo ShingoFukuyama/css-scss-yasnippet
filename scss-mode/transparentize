@@ -1,0 +1,5 @@
+# name: transparentize
+# key: transparentize
+# reduce transparency
+# --
+transparentize(${1:#ff0000}, ${2:0.2});

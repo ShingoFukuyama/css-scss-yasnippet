@@ -1,0 +1,4 @@
+# name: type-of
+# key: type-of
+# --
+type-of($1);

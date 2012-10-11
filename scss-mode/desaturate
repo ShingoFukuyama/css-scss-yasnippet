@@ -1,0 +1,4 @@
+# name: desaturate
+# key: desaturate
+# --
+desaturate(${1:#cc0000}, ${2:30}%);

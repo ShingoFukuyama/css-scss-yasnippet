@@ -1,4 +1,4 @@
 # name: import
-# key: im
+# key: import
 # --
 @import "$0";

@@ -1,0 +1,4 @@
+# name: fade_in
+# key: fade_in
+# --
+fade_in(${1:rgba(0, 0, 100, 0.5)}, ${2:0.2});

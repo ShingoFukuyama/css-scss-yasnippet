@@ -1,0 +1,4 @@
+# name: append
+# key: append
+# --
+append(${1:(1px solid)}, ${2:red}${3:$$(yas/choose-value '(", space" ", comma"))});

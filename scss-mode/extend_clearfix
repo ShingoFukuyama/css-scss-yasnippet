@@ -1,4 +1,4 @@
 # name: extend_clearfix
-# key: excl
+# key: extend_clearfix
 # --
 @extend .clearfix;

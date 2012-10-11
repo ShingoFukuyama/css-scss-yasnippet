@@ -1,5 +1,5 @@
 # name: interpolation_sharp_block
-# key: in
+# key: interpolation_sharp_block
 # binding: C-c C-i
 # --
 #{$0}

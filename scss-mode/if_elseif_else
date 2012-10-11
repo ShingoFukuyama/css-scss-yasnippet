@@ -1,5 +1,5 @@
-# name: if elseif else
-# key: if
+# name: if_elseif_else
+# key: if_elseif_else
 # --
 // operator == != < > <= >= and not or
 @if $1 {

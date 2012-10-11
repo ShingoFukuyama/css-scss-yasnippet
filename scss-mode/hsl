@@ -1,0 +1,4 @@
+# name: hsl
+# key: hsl
+# --
+hsl($1deg, $2%, $3%);

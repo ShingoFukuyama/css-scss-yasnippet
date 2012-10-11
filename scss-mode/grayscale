@@ -1,0 +1,4 @@
+# name: grayscale
+# key: grayscale
+# --
+grayscale(${1:#ff0000});

@@ -1,4 +1,4 @@
 # name: darken
-# key: dark
+# key: darken
 # --
-darken($1, $2%);
+darken(${1:#999999}, ${2:30}%);
